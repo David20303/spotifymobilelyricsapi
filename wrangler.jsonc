@@ -1,5 +1,5 @@
 {
-	"name": "spotify-mobile-lyrics-api",
+	"name": "spotifymobilelyricsapi",
 	"main": "adapter/cloudflare.ts",
 	"compatibility_flags": [
 		"nodejs_compat"
